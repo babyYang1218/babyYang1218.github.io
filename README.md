@@ -2,9 +2,6 @@
 <html>
     <head>
     <meta charset="utf-8">
-    <title>
-       你好啊
-    </title>
         <style>
             body{text-align:center}
             html, body
